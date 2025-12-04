@@ -1,0 +1,5 @@
+scaling,split,train_pct,mean_accuracy,std_accuracy,median_accuracy,last_accuracy
+original,90_10,90%,0.1722,0.0427,0.175,0.1375
+minmax,90_10,90%,0.1706,0.0425,0.1625,0.125
+minmax,70_30,70%,0.1665,0.0254,0.1667,0.1708
+original,70_30,70%,0.1652,0.0214,0.1625,0.1458
